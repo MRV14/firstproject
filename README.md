@@ -1,6 +1,6 @@
 # firstproject
 First Project on GitHub
-very interesting research topic.
+extremely interesting research topic.
 
 ## Usage
 Description
